@@ -357,7 +357,7 @@ public class WindowTimetable_Edit extends javax.swing.JFrame {
                 javax.swing.JOptionPane.showMessageDialog(this, "Le Plage a été modifiée avec succès.");
 
                 // Fermez la connexion à la base de données
-                Connector.closeConnection(connection);
+            Connector.closeConnection(connection);
             } else {
                 // Si la classe existe déjà, affichez une boîte de dialogue d'erreur
                 javax.swing.JOptionPane.showMessageDialog(this, "Erreur de validation");

@@ -3,12 +3,6 @@
  */
 
 package app;
-
-
-/**
- *
- * @author boywithuke
- */
 public class Edt {
 
     public static void main(String[] args) {

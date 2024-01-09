@@ -28,7 +28,6 @@ public class Window_Main extends javax.swing.JFrame {
     public Window_Main(String classe) {
         initComponents();
 
-        setResizable(false);
         setLocationRelativeTo(null);
         this.classe = classe;
         setNameLabelText(this.classe);
