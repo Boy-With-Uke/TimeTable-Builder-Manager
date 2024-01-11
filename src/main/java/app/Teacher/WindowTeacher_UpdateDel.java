@@ -6,7 +6,10 @@ package app.Teacher;
 
 import app.*;
 import java.sql.*;
-import app.Subject.WindowSubject_UpdateDel;
+import java.util.ArrayList;
+import java.util.List;
+import javax.swing.DefaultComboBoxModel;
+import javax.swing.JOptionPane;
 
 public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
 
@@ -17,6 +20,7 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
         initComponents();
         setResizable(false);
         setLocationRelativeTo(null);
+        fillComboBox();
     }
 
     /**
@@ -31,12 +35,12 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
-        TextName = new javax.swing.JTextField();
         ButtonUpdate = new javax.swing.JButton();
         ButtonDel = new javax.swing.JButton();
         Back = new javax.swing.JButton();
         Newname = new javax.swing.JTextField();
         jLabel3 = new javax.swing.JLabel();
+        Combo = new javax.swing.JComboBox<>();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -49,15 +53,6 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Noto Sans", 0, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(154, 154, 154));
         jLabel2.setText("Teacher Name:");
-
-        TextName.setBackground(new java.awt.Color(51, 57, 67));
-        TextName.setFont(new java.awt.Font("Noto Sans", 0, 18)); // NOI18N
-        TextName.setForeground(new java.awt.Color(154, 154, 154));
-        TextName.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                TextNameActionPerformed(evt);
-            }
-        });
 
         ButtonUpdate.setBackground(new java.awt.Color(51, 57, 67));
         ButtonUpdate.setFont(new java.awt.Font("Noto Sans", 2, 15)); // NOI18N
@@ -102,6 +97,13 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
         jLabel3.setForeground(new java.awt.Color(154, 154, 154));
         jLabel3.setText("New Teacher Name:");
 
+        Combo.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        Combo.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ComboActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -119,12 +121,13 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(30, 30, 30)
                         .addComponent(jLabel2)
-                        .addGap(44, 44, 44)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(TextName, javax.swing.GroupLayout.PREFERRED_SIZE, 295, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addGroup(jPanel1Layout.createSequentialGroup()
-                                .addGap(52, 52, 52)
-                                .addComponent(ButtonDel, javax.swing.GroupLayout.PREFERRED_SIZE, 95, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                                .addGap(96, 96, 96)
+                                .addComponent(ButtonDel, javax.swing.GroupLayout.PREFERRED_SIZE, 95, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addGroup(jPanel1Layout.createSequentialGroup()
+                                .addGap(18, 18, 18)
+                                .addComponent(Combo, javax.swing.GroupLayout.PREFERRED_SIZE, 267, javax.swing.GroupLayout.PREFERRED_SIZE))))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(67, 67, 67)
                         .addComponent(ButtonUpdate, javax.swing.GroupLayout.PREFERRED_SIZE, 172, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -140,8 +143,8 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel2)
-                    .addComponent(TextName, javax.swing.GroupLayout.PREFERRED_SIZE, 51, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(49, 49, 49)
+                    .addComponent(Combo, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(45, 45, 45)
                 .addComponent(ButtonDel, javax.swing.GroupLayout.PREFERRED_SIZE, 53, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(58, 58, 58)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
@@ -151,7 +154,7 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(ButtonUpdate, javax.swing.GroupLayout.PREFERRED_SIZE, 52, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(Back, javax.swing.GroupLayout.PREFERRED_SIZE, 53, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(73, Short.MAX_VALUE))
+                .addContainerGap(72, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -170,12 +173,8 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void TextNameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TextNameActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_TextNameActionPerformed
-
     private void ButtonUpdateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonUpdateActionPerformed
-        String nomMatiere = TextName.getText().trim();
+        String nomMatiere = Combo.getSelectedItem().toString();
         String newName = Newname.getText().trim();
 
         // Vérifiez si le champ de texte n'est pas vide
@@ -209,8 +208,7 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
     }//GEN-LAST:event_ButtonUpdateActionPerformed
 
     private void ButtonDelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonDelActionPerformed
-        String nomProf = TextName.getText().trim();
-
+        String nomProf = Combo.getSelectedItem().toString();
         // Vérifiez si le champ de texte n'est pas vide
         if (!nomProf.isEmpty()) {
             try {
@@ -251,6 +249,10 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
     private void NewnameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_NewnameActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_NewnameActionPerformed
+
+    private void ComboActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ComboActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_ComboActionPerformed
 
     /**
      * @param args the command line arguments
@@ -459,14 +461,48 @@ public class WindowTeacher_UpdateDel extends javax.swing.JFrame {
 
         }
     }
+    
+    
+    private void fillComboBox() {
+        try {
+            // Obtenez une connexion à la base de données
+            Connection connection = Connector.getConnection();
+
+            // Récupérez les données de la base de données (noms des classes)
+            List<String> matieres = getFromDatabase(connection);
+
+            // Ajoutez les classes à la JComboBox
+            DefaultComboBoxModel<String> model = new DefaultComboBoxModel<>(matieres.toArray(new String[0]));
+            Combo.setModel(model);
+
+            // Fermez la connexion à la base de données
+            Connector.closeConnection(connection);
+        } catch (SQLException e) {
+            // En cas d'erreur de base de données, affichez un message d'erreur
+            JOptionPane.showMessageDialog(this, "Erreur lors du chargement des classes : " + e.getMessage());
+        }
+    }
+    
+    
+    private List<String> getFromDatabase(Connection connection) throws SQLException {
+        List<String> matieres = new ArrayList<>();
+        String query = "SELECT nom_prof FROM prof";
+        try (PreparedStatement statement = connection.prepareStatement(query); ResultSet resultSet = statement.executeQuery()) {
+            while (resultSet.next()) {
+                String matiere = resultSet.getString("nom_prof");
+                matieres.add(matiere);
+            }
+        }
+        return matieres;
+    }
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton Back;
     private javax.swing.JButton ButtonDel;
     private javax.swing.JButton ButtonUpdate;
+    private javax.swing.JComboBox<String> Combo;
     private javax.swing.JTextField Newname;
-    private javax.swing.JTextField TextName;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
