@@ -158,7 +158,6 @@ public class WindowSubject_Add extends javax.swing.JFrame {
     private void ButtonAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonAddActionPerformed
         String nomMatiere = TextName.getText().trim();
         String profMatiere = TextName2.getText().trim();
-        
 
         // Vérifiez si le champ de texte n'est pas vide
         if (!nomMatiere.isEmpty()) {
@@ -170,6 +169,8 @@ public class WindowSubject_Add extends javax.swing.JFrame {
                 if (!MatiereExists(connection, nomMatiere)) {
                     // Si la classe n'existe pas, ajoutez-la à la base de données
                     addMatiere(connection, nomMatiere, profMatiere);
+
+                    addProf(connection, profMatiere, nomMatiere);
 
                     // Affichez une boîte de dialogue de succès
                     javax.swing.JOptionPane.showMessageDialog(this, "La Matiere '" + nomMatiere + "' a été ajoutée avec succès.");
@@ -277,18 +278,39 @@ public class WindowSubject_Add extends javax.swing.JFrame {
             return count > 0;
         }
     }
-    // Méthode pour ajouter une nouvelle classe à la base de données
 
-   private void addMatiere(Connection connection, String nomMatiere, String enseignantMatiere) throws SQLException {
-    // Utilisez une requête SQL pour insérer la nouvelle matière avec son enseignant
-    String query = "INSERT INTO matieres (nom_matiere, enseignant_matiere) VALUES (?, ?)";
-    try (PreparedStatement statement = connection.prepareStatement(query)) {
-        statement.setString(1, nomMatiere);
-        statement.setString(2, enseignantMatiere);
-        statement.executeUpdate();
+    private boolean ProfExists(Connection connection, String nomMatiere) throws SQLException {
+        // Utilisez une requête SQL pour vérifier l'existence de la classe
+        String query = "SELECT COUNT(*) FROM prof WHERE nom_prof = ?";
+        try (PreparedStatement statement = connection.prepareStatement(query)) {
+            statement.setString(1, nomMatiere);
+            ResultSet resultSet = statement.executeQuery();
+            resultSet.next();
+            int count = resultSet.getInt(1);
+            return count > 0;
+        }
     }
-}
 
+    private void addProf(Connection connection, String nomProf, String profMatiere) throws SQLException {
+        // Utilisez une requête SQL pour insérer la nouvelle matière avec son enseignant
+        String query = "INSERT INTO prof (nom_prof, matiere_prof) VALUES (?, ?)";
+        try (PreparedStatement statement = connection.prepareStatement(query)) {
+            statement.setString(1, nomProf);
+            statement.setString(2, profMatiere);
+            statement.executeUpdate();
+        }
+    }
+
+    // Méthode pour ajouter une nouvelle classe à la base de données
+    private void addMatiere(Connection connection, String nomMatiere, String enseignantMatiere) throws SQLException {
+        // Utilisez une requête SQL pour insérer la nouvelle matière avec son enseignant
+        String query = "INSERT INTO matieres (nom_matiere, enseignant_matiere) VALUES (?, ?)";
+        try (PreparedStatement statement = connection.prepareStatement(query)) {
+            statement.setString(1, nomMatiere);
+            statement.setString(2, enseignantMatiere);
+            statement.executeUpdate();
+        }
+    }
 
     private void deleteMatiere(Connection connection, String nomClasse) throws SQLException {
         // Utilisez une requête SQL pour supprimer la classe

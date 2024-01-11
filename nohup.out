@@ -124,3 +124,878 @@ Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'obje
 [00007fb8b01266b0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
 [00007fb8b01266b0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
 Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b04b7e60] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b04b7e60] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b04b7e60] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b04c7300] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b04c7300] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b04c7300] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b09f1250] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b09f1250] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b09f1250] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b4005360] main decoder error: Timestamp conversion failed (delay 1000000, buffering 100000, bound 9000000)
+[00007fb8b4005360] main decoder error: Could not convert timestamp 5970657251 for FFmpeg
+[h264 @ 0x7fb8b4cdb740] get_buffer() failed
+[h264 @ 0x7fb8b4cdb740] thread_get_buffer() failed
+[h264 @ 0x7fb8b4cdb740] decode_slice_header error
+[h264 @ 0x7fb8b4cdb740] no frame!
+[00007fb8b03a0880] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b03a0880] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b03a0880] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b00ceb70] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b00ceb70] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b00ceb70] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b027b600] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b034b2d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b041a1f0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b041a1f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b041a1f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b041a1f0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b041a1f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b041a1f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b02df440] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b02df440] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b02df440] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b027b600] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b027b600] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b05344f0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b05344f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b05344f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0085660] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0085660] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0085660] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0085660] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0085660] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0085660] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b034b2d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0604fc0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0604fc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0604fc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0625690] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0625690] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0625690] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b049d9e0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b068ca10] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b068ca10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b068ca10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0658dc0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0658dc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0658dc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b064cf20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b064cf20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b064cf20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0627d20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b049d9e0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b02969c0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b02969c0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b02969c0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b068ca10] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b068ca10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b068ca10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+> Start Eclipse Jobs Mechanism [org.eclipse.core.jobs 3.15.100.v20230930-1207]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.100.v20231012-1825]
+> Start DBeaver Application Standalone [org.jkiss.dbeaver.ui.app.standalone 23.3.1.202312261939]
+> Start Eclipse IDE UI Application [org.eclipse.ui.ide.application 1.5.200.v20231030-2045]
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.0.v20231102-1012]
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.121.202312261939]
+> Start Expression Language [org.eclipse.core.expressions 3.9.200.v20230921-0857]
+> Start DBeaver Usage Statistics [org.jkiss.dbeaver.ui.statistics 1.0.17.202312261939]
+> Start DBeaver Desktop Application Core [org.jkiss.dbeaver.core 23.3.1.202312261939]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.136.202312261939]
+2024-01-11 21:21:17.040 - DBeaver 23.3.1.202312261939 is starting
+2024-01-11 21:21:17.040 - OS: Linux 6.6.10-arch1-1 (amd64)
+2024-01-11 21:21:17.041 - Java version: 17.0.9 by N/A (64bit)
+2024-01-11 21:21:17.041 - Install path: '/usr/lib/dbeaver'
+2024-01-11 21:21:17.041 - Instance path: 'file:/home/boywithuke/.local/share/DBeaverData/workspace6/'
+2024-01-11 21:21:17.041 - Memory available 128Mb/1024Mb
+2024-01-11 21:21:17.170 - Create display
+2024-01-11 21:21:18.396 - Initialize desktop platform...
+2024-01-11 21:21:18.996 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.200.v20231102-0934]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.0.v20231102-0934]
+> Start Team Support Core [org.eclipse.team.core 3.10.200.v20231106-1240]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.121.202312261939]
+2024-01-11 21:21:20.368 - Initialize base platform...
+2024-01-11 21:21:20.448 - Platform initialized (2052ms)
+2024-01-11 21:21:21.535 - Error accessing instance server: java.net.ConnectException
+2024-01-11 21:21:21.644 - Starting instance server at http://localhost:35121
+2024-01-11 21:21:21.745 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.200.v20231030-2045]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.200.v20231103-2012]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.200.v20231030-2045]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.200.v20231030-2045]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.200.v20231030-2045]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.200.v20231108-1058]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.36.0.v20231002-1156]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.200.v20230913-1724]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.200.v20231106-1600]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.200.v20231030-2045]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.100.v20231103-2012]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.200.v20231025-0632]
+2024-01-11 21:21:29.643 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.111.202312261939]
+2024-01-11 21:21:30.990 - Total database drivers: 106 (106)
+> Start Help System Core [org.eclipse.help 3.10.200.v20231106-1240]
+2024-01-11 21:21:32.160 - Create actions
+2024-01-11 21:21:32.177 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-01-11 21:21:32.178 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-01-11 21:21:32.179 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+Warning: NLS unused message: actions_ContentAssistProposal_description in: org.jkiss.dbeaver.core.CoreResources
+2024-01-11 21:21:34.476 - Initialize workbench window
+2024-01-11 21:21:34.489 - Finish initialization
+> Start Default Text Editor [org.eclipse.ui.editors 3.17.100.v20231106-1600]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.200.v20231106-1600]
+[00007fb8b0681e20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0681e20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0681e20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+
+(DBeaver:13528): Gtk-WARNING **: 21:21:37.495: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+> Start Internet Connection Management [org.eclipse.core.net 1.5.200.v20231106-1240]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.121.202312261939]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.121.202312261939]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.158.202312261939]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.127.202312261939]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.100.202311222042]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.16.0.202311222042]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.81.202312261939]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.81.202312261939]
+2024-01-11 21:21:41.113 - Connect with 'flask' (mysql8-18cf1bc87ee-433b470a18ffe815)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.14.202312261939]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.206.202312261939]
+2024-01-11 21:21:41.495 - Execution context opened (flask; Main; 0)
+2024-01-11 21:21:41.777 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.145.202312261939]
+2024-01-11 21:21:43.324 - Execution context opened (flask; Metadata; 1)
+2024-01-11 21:21:43.370 - Error reading SQL keywords: Unknown column 'RESERVED' in 'where clause'
+2024-01-11 21:21:43.440 - Charset 'null' not found.
+2024-01-11 21:21:43.441 - Charset 'null' not found.
+2024-01-11 21:21:43.442 - Charset 'null' not found.
+2024-01-11 21:21:43.442 - Charset 'null' not found.
+2024-01-11 21:21:43.443 - Charset 'null' not found.
+2024-01-11 21:21:43.444 - Charset 'null' not found.
+2024-01-11 21:21:43.444 - Charset 'null' not found.
+2024-01-11 21:21:43.446 - Charset 'null' not found.
+2024-01-11 21:21:43.447 - Charset 'null' not found.
+2024-01-11 21:21:43.447 - Charset 'null' not found.
+2024-01-11 21:21:43.448 - Charset 'null' not found.
+2024-01-11 21:21:43.449 - Charset 'null' not found.
+2024-01-11 21:21:43.450 - Charset 'null' not found.
+2024-01-11 21:21:43.450 - Charset 'null' not found.
+2024-01-11 21:21:43.451 - Charset 'null' not found.
+2024-01-11 21:21:43.451 - Charset 'null' not found.
+2024-01-11 21:21:43.451 - Charset 'null' not found.
+2024-01-11 21:21:43.452 - Charset 'null' not found.
+2024-01-11 21:21:43.452 - Charset 'null' not found.
+2024-01-11 21:21:43.452 - Charset 'null' not found.
+2024-01-11 21:21:43.452 - Charset 'null' not found.
+2024-01-11 21:21:43.453 - Charset 'null' not found.
+2024-01-11 21:21:43.453 - Charset 'null' not found.
+2024-01-11 21:21:43.453 - Charset 'null' not found.
+2024-01-11 21:21:43.453 - Charset 'null' not found.
+2024-01-11 21:21:43.454 - Charset 'null' not found.
+2024-01-11 21:21:43.454 - Charset 'null' not found.
+2024-01-11 21:21:43.465 - Charset 'null' not found.
+2024-01-11 21:21:43.466 - Charset 'null' not found.
+2024-01-11 21:21:43.466 - Charset 'null' not found.
+2024-01-11 21:21:43.467 - Charset 'null' not found.
+2024-01-11 21:21:43.468 - Charset 'null' not found.
+2024-01-11 21:21:43.468 - Charset 'null' not found.
+2024-01-11 21:21:43.469 - Charset 'null' not found.
+2024-01-11 21:21:43.469 - Charset 'null' not found.
+2024-01-11 21:21:43.470 - Charset 'null' not found.
+2024-01-11 21:21:43.471 - Charset 'null' not found.
+2024-01-11 21:21:43.471 - Charset 'null' not found.
+2024-01-11 21:21:43.471 - Charset 'null' not found.
+2024-01-11 21:21:43.472 - Charset 'null' not found.
+2024-01-11 21:21:43.472 - Charset 'null' not found.
+2024-01-11 21:21:43.472 - Charset 'null' not found.
+2024-01-11 21:21:43.473 - Charset 'null' not found.
+2024-01-11 21:21:43.473 - Charset 'null' not found.
+2024-01-11 21:21:43.473 - Charset 'null' not found.
+2024-01-11 21:21:43.474 - Charset 'null' not found.
+2024-01-11 21:21:43.476 - Charset 'null' not found.
+2024-01-11 21:21:43.476 - Charset 'null' not found.
+2024-01-11 21:21:43.477 - Charset 'null' not found.
+2024-01-11 21:21:43.477 - Charset 'null' not found.
+2024-01-11 21:21:43.478 - Charset 'null' not found.
+2024-01-11 21:21:43.479 - Charset 'null' not found.
+2024-01-11 21:21:43.479 - Charset 'null' not found.
+2024-01-11 21:21:43.480 - Charset 'null' not found.
+2024-01-11 21:21:43.480 - Charset 'null' not found.
+2024-01-11 21:21:43.481 - Charset 'null' not found.
+2024-01-11 21:21:43.481 - Charset 'null' not found.
+2024-01-11 21:21:43.482 - Charset 'null' not found.
+2024-01-11 21:21:43.482 - Charset 'null' not found.
+2024-01-11 21:21:43.483 - Charset 'null' not found.
+2024-01-11 21:21:43.483 - Charset 'null' not found.
+2024-01-11 21:21:43.484 - Charset 'null' not found.
+2024-01-11 21:21:43.484 - Charset 'null' not found.
+2024-01-11 21:21:43.485 - Charset 'null' not found.
+2024-01-11 21:21:43.485 - Charset 'null' not found.
+2024-01-11 21:21:43.486 - Charset 'null' not found.
+2024-01-11 21:21:43.486 - Charset 'null' not found.
+2024-01-11 21:21:43.487 - Charset 'null' not found.
+2024-01-11 21:21:43.487 - Charset 'null' not found.
+2024-01-11 21:21:43.488 - Charset 'null' not found.
+2024-01-11 21:21:43.488 - Charset 'null' not found.
+2024-01-11 21:21:43.489 - Charset 'null' not found.
+2024-01-11 21:21:43.489 - Charset 'null' not found.
+2024-01-11 21:21:43.490 - Charset 'null' not found.
+2024-01-11 21:21:43.490 - Charset 'null' not found.
+2024-01-11 21:21:43.490 - Charset 'null' not found.
+2024-01-11 21:21:43.491 - Charset 'null' not found.
+2024-01-11 21:21:43.491 - Charset 'null' not found.
+2024-01-11 21:21:43.491 - Charset 'null' not found.
+2024-01-11 21:21:43.492 - Charset 'null' not found.
+2024-01-11 21:21:43.492 - Charset 'null' not found.
+2024-01-11 21:21:43.492 - Charset 'null' not found.
+2024-01-11 21:21:43.493 - Charset 'null' not found.
+2024-01-11 21:21:43.493 - Charset 'null' not found.
+2024-01-11 21:21:43.493 - Charset 'null' not found.
+2024-01-11 21:21:43.494 - Charset 'null' not found.
+2024-01-11 21:21:43.494 - Charset 'null' not found.
+2024-01-11 21:21:43.494 - Charset 'null' not found.
+2024-01-11 21:21:43.494 - Charset 'null' not found.
+2024-01-11 21:21:43.495 - Charset 'null' not found.
+2024-01-11 21:21:43.495 - Charset 'null' not found.
+2024-01-11 21:21:43.495 - Charset 'null' not found.
+2024-01-11 21:21:43.495 - Charset 'null' not found.
+2024-01-11 21:21:43.496 - Charset 'null' not found.
+2024-01-11 21:21:43.496 - Charset 'null' not found.
+2024-01-11 21:21:43.496 - Charset 'null' not found.
+2024-01-11 21:21:43.496 - Charset 'null' not found.
+2024-01-11 21:21:43.496 - Charset 'null' not found.
+2024-01-11 21:21:43.497 - Charset 'null' not found.
+2024-01-11 21:21:43.497 - Charset 'null' not found.
+2024-01-11 21:21:43.497 - Charset 'null' not found.
+2024-01-11 21:21:43.498 - Charset 'null' not found.
+2024-01-11 21:21:43.498 - Charset 'null' not found.
+2024-01-11 21:21:43.498 - Charset 'null' not found.
+2024-01-11 21:21:43.499 - Charset 'null' not found.
+2024-01-11 21:21:43.499 - Charset 'null' not found.
+2024-01-11 21:21:43.499 - Charset 'null' not found.
+2024-01-11 21:21:43.500 - Charset 'null' not found.
+2024-01-11 21:21:43.500 - Charset 'null' not found.
+2024-01-11 21:21:43.500 - Charset 'null' not found.
+2024-01-11 21:21:43.500 - Charset 'null' not found.
+2024-01-11 21:21:43.501 - Charset 'null' not found.
+2024-01-11 21:21:43.501 - Charset 'null' not found.
+2024-01-11 21:21:43.501 - Charset 'null' not found.
+2024-01-11 21:21:43.501 - Charset 'null' not found.
+2024-01-11 21:21:43.501 - Charset 'null' not found.
+2024-01-11 21:21:43.502 - Charset 'null' not found.
+2024-01-11 21:21:43.502 - Charset 'null' not found.
+2024-01-11 21:21:43.502 - Charset 'null' not found.
+2024-01-11 21:21:43.502 - Charset 'null' not found.
+2024-01-11 21:21:43.502 - Charset 'null' not found.
+2024-01-11 21:21:43.503 - Charset 'null' not found.
+2024-01-11 21:21:43.503 - Charset 'null' not found.
+2024-01-11 21:21:43.503 - Charset 'null' not found.
+2024-01-11 21:21:43.503 - Charset 'null' not found.
+2024-01-11 21:21:43.504 - Charset 'null' not found.
+2024-01-11 21:21:43.504 - Charset 'null' not found.
+2024-01-11 21:21:43.504 - Charset 'null' not found.
+2024-01-11 21:21:43.504 - Charset 'null' not found.
+2024-01-11 21:21:43.505 - Charset 'null' not found.
+2024-01-11 21:21:43.505 - Charset 'null' not found.
+2024-01-11 21:21:43.505 - Charset 'null' not found.
+2024-01-11 21:21:43.505 - Charset 'null' not found.
+2024-01-11 21:21:43.505 - Charset 'null' not found.
+2024-01-11 21:21:43.506 - Charset 'null' not found.
+2024-01-11 21:21:43.506 - Charset 'null' not found.
+2024-01-11 21:21:43.506 - Charset 'null' not found.
+2024-01-11 21:21:43.506 - Charset 'null' not found.
+2024-01-11 21:21:43.507 - Charset 'null' not found.
+2024-01-11 21:21:43.507 - Charset 'null' not found.
+2024-01-11 21:21:43.507 - Charset 'null' not found.
+2024-01-11 21:21:43.507 - Charset 'null' not found.
+2024-01-11 21:21:43.508 - Charset 'null' not found.
+2024-01-11 21:21:43.508 - Charset 'null' not found.
+2024-01-11 21:21:43.509 - Charset 'null' not found.
+2024-01-11 21:21:43.509 - Charset 'null' not found.
+2024-01-11 21:21:43.509 - Charset 'null' not found.
+2024-01-11 21:21:43.510 - Charset 'null' not found.
+2024-01-11 21:21:43.510 - Charset 'null' not found.
+2024-01-11 21:21:43.510 - Charset 'null' not found.
+2024-01-11 21:21:43.511 - Charset 'null' not found.
+2024-01-11 21:21:43.511 - Charset 'null' not found.
+2024-01-11 21:21:43.512 - Charset 'null' not found.
+2024-01-11 21:21:43.513 - Charset 'null' not found.
+2024-01-11 21:21:43.513 - Charset 'null' not found.
+2024-01-11 21:21:43.513 - Charset 'null' not found.
+2024-01-11 21:21:43.513 - Charset 'null' not found.
+2024-01-11 21:21:43.514 - Charset 'null' not found.
+2024-01-11 21:21:43.514 - Charset 'null' not found.
+2024-01-11 21:21:43.514 - Charset 'null' not found.
+2024-01-11 21:21:43.514 - Charset 'null' not found.
+2024-01-11 21:21:43.514 - Charset 'null' not found.
+2024-01-11 21:21:43.515 - Charset 'null' not found.
+2024-01-11 21:21:43.515 - Charset 'null' not found.
+2024-01-11 21:21:43.515 - Charset 'null' not found.
+2024-01-11 21:21:43.515 - Charset 'null' not found.
+2024-01-11 21:21:43.515 - Charset 'null' not found.
+2024-01-11 21:21:43.516 - Charset 'null' not found.
+2024-01-11 21:21:43.516 - Charset 'null' not found.
+2024-01-11 21:21:43.516 - Charset 'null' not found.
+2024-01-11 21:21:43.516 - Charset 'null' not found.
+2024-01-11 21:21:43.517 - Charset 'null' not found.
+2024-01-11 21:21:43.517 - Charset 'null' not found.
+2024-01-11 21:21:43.517 - Charset 'null' not found.
+2024-01-11 21:21:43.517 - Charset 'null' not found.
+2024-01-11 21:21:43.517 - Charset 'null' not found.
+2024-01-11 21:21:43.518 - Charset 'null' not found.
+2024-01-11 21:21:43.518 - Charset 'null' not found.
+2024-01-11 21:21:43.519 - Charset 'null' not found.
+2024-01-11 21:21:43.519 - Charset 'null' not found.
+2024-01-11 21:21:43.520 - Charset 'null' not found.
+2024-01-11 21:21:43.520 - Charset 'null' not found.
+2024-01-11 21:21:43.520 - Charset 'null' not found.
+2024-01-11 21:21:43.521 - Charset 'null' not found.
+2024-01-11 21:21:43.802 - Connected (mysql8-18cf1bc87ee-433b470a18ffe815, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+[00007fb8b0627d20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2024-01-11 21:22:43.954 - Connect with 'Mysql' (mysql8-18cefa82dc6-5576f0bc76113aaf)
+2024-01-11 21:22:43.965 - Execution context opened (Mysql; Main; 2)
+2024-01-11 21:22:43.971 - Execution context opened (Mysql; Metadata; 3)
+2024-01-11 21:22:43.976 - Error reading SQL keywords: Unknown column 'RESERVED' in 'where clause'
+2024-01-11 21:22:43.989 - Charset 'null' not found.
+2024-01-11 21:22:44.007 - Charset 'null' not found.
+2024-01-11 21:22:44.007 - Charset 'null' not found.
+2024-01-11 21:22:44.007 - Charset 'null' not found.
+2024-01-11 21:22:44.008 - Charset 'null' not found.
+2024-01-11 21:22:44.008 - Charset 'null' not found.
+2024-01-11 21:22:44.008 - Charset 'null' not found.
+2024-01-11 21:22:44.009 - Charset 'null' not found.
+2024-01-11 21:22:44.009 - Charset 'null' not found.
+2024-01-11 21:22:44.009 - Charset 'null' not found.
+2024-01-11 21:22:44.010 - Charset 'null' not found.
+2024-01-11 21:22:44.010 - Charset 'null' not found.
+2024-01-11 21:22:44.010 - Charset 'null' not found.
+2024-01-11 21:22:44.010 - Charset 'null' not found.
+2024-01-11 21:22:44.011 - Charset 'null' not found.
+2024-01-11 21:22:44.011 - Charset 'null' not found.
+2024-01-11 21:22:44.011 - Charset 'null' not found.
+2024-01-11 21:22:44.011 - Charset 'null' not found.
+2024-01-11 21:22:44.012 - Charset 'null' not found.
+2024-01-11 21:22:44.012 - Charset 'null' not found.
+2024-01-11 21:22:44.012 - Charset 'null' not found.
+2024-01-11 21:22:44.013 - Charset 'null' not found.
+2024-01-11 21:22:44.013 - Charset 'null' not found.
+2024-01-11 21:22:44.013 - Charset 'null' not found.
+2024-01-11 21:22:44.013 - Charset 'null' not found.
+2024-01-11 21:22:44.013 - Charset 'null' not found.
+2024-01-11 21:22:44.014 - Charset 'null' not found.
+2024-01-11 21:22:44.014 - Charset 'null' not found.
+2024-01-11 21:22:44.014 - Charset 'null' not found.
+2024-01-11 21:22:44.014 - Charset 'null' not found.
+2024-01-11 21:22:44.015 - Charset 'null' not found.
+2024-01-11 21:22:44.015 - Charset 'null' not found.
+2024-01-11 21:22:44.015 - Charset 'null' not found.
+2024-01-11 21:22:44.016 - Charset 'null' not found.
+2024-01-11 21:22:44.016 - Charset 'null' not found.
+2024-01-11 21:22:44.016 - Charset 'null' not found.
+2024-01-11 21:22:44.016 - Charset 'null' not found.
+2024-01-11 21:22:44.017 - Charset 'null' not found.
+2024-01-11 21:22:44.017 - Charset 'null' not found.
+2024-01-11 21:22:44.017 - Charset 'null' not found.
+2024-01-11 21:22:44.018 - Charset 'null' not found.
+2024-01-11 21:22:44.018 - Charset 'null' not found.
+2024-01-11 21:22:44.019 - Charset 'null' not found.
+2024-01-11 21:22:44.020 - Charset 'null' not found.
+2024-01-11 21:22:44.020 - Charset 'null' not found.
+2024-01-11 21:22:44.021 - Charset 'null' not found.
+2024-01-11 21:22:44.022 - Charset 'null' not found.
+2024-01-11 21:22:44.023 - Charset 'null' not found.
+2024-01-11 21:22:44.024 - Charset 'null' not found.
+2024-01-11 21:22:44.024 - Charset 'null' not found.
+2024-01-11 21:22:44.025 - Charset 'null' not found.
+2024-01-11 21:22:44.026 - Charset 'null' not found.
+2024-01-11 21:22:44.027 - Charset 'null' not found.
+2024-01-11 21:22:44.027 - Charset 'null' not found.
+2024-01-11 21:22:44.028 - Charset 'null' not found.
+2024-01-11 21:22:44.028 - Charset 'null' not found.
+2024-01-11 21:22:44.028 - Charset 'null' not found.
+2024-01-11 21:22:44.028 - Charset 'null' not found.
+2024-01-11 21:22:44.029 - Charset 'null' not found.
+2024-01-11 21:22:44.029 - Charset 'null' not found.
+2024-01-11 21:22:44.030 - Charset 'null' not found.
+2024-01-11 21:22:44.030 - Charset 'null' not found.
+2024-01-11 21:22:44.030 - Charset 'null' not found.
+2024-01-11 21:22:44.031 - Charset 'null' not found.
+2024-01-11 21:22:44.031 - Charset 'null' not found.
+2024-01-11 21:22:44.032 - Charset 'null' not found.
+2024-01-11 21:22:44.032 - Charset 'null' not found.
+2024-01-11 21:22:44.033 - Charset 'null' not found.
+2024-01-11 21:22:44.033 - Charset 'null' not found.
+2024-01-11 21:22:44.034 - Charset 'null' not found.
+2024-01-11 21:22:44.034 - Charset 'null' not found.
+2024-01-11 21:22:44.034 - Charset 'null' not found.
+2024-01-11 21:22:44.036 - Charset 'null' not found.
+2024-01-11 21:22:44.037 - Charset 'null' not found.
+2024-01-11 21:22:44.037 - Charset 'null' not found.
+2024-01-11 21:22:44.037 - Charset 'null' not found.
+2024-01-11 21:22:44.038 - Charset 'null' not found.
+2024-01-11 21:22:44.038 - Charset 'null' not found.
+2024-01-11 21:22:44.039 - Charset 'null' not found.
+2024-01-11 21:22:44.039 - Charset 'null' not found.
+2024-01-11 21:22:44.039 - Charset 'null' not found.
+2024-01-11 21:22:44.040 - Charset 'null' not found.
+2024-01-11 21:22:44.040 - Charset 'null' not found.
+2024-01-11 21:22:44.040 - Charset 'null' not found.
+2024-01-11 21:22:44.041 - Charset 'null' not found.
+2024-01-11 21:22:44.041 - Charset 'null' not found.
+2024-01-11 21:22:44.041 - Charset 'null' not found.
+2024-01-11 21:22:44.041 - Charset 'null' not found.
+2024-01-11 21:22:44.042 - Charset 'null' not found.
+2024-01-11 21:22:44.042 - Charset 'null' not found.
+2024-01-11 21:22:44.042 - Charset 'null' not found.
+2024-01-11 21:22:44.043 - Charset 'null' not found.
+2024-01-11 21:22:44.043 - Charset 'null' not found.
+2024-01-11 21:22:44.043 - Charset 'null' not found.
+2024-01-11 21:22:44.044 - Charset 'null' not found.
+2024-01-11 21:22:44.044 - Charset 'null' not found.
+2024-01-11 21:22:44.044 - Charset 'null' not found.
+2024-01-11 21:22:44.045 - Charset 'null' not found.
+2024-01-11 21:22:44.045 - Charset 'null' not found.
+2024-01-11 21:22:44.045 - Charset 'null' not found.
+2024-01-11 21:22:44.045 - Charset 'null' not found.
+2024-01-11 21:22:44.046 - Charset 'null' not found.
+2024-01-11 21:22:44.046 - Charset 'null' not found.
+2024-01-11 21:22:44.046 - Charset 'null' not found.
+2024-01-11 21:22:44.047 - Charset 'null' not found.
+2024-01-11 21:22:44.047 - Charset 'null' not found.
+2024-01-11 21:22:44.047 - Charset 'null' not found.
+2024-01-11 21:22:44.048 - Charset 'null' not found.
+2024-01-11 21:22:44.048 - Charset 'null' not found.
+2024-01-11 21:22:44.048 - Charset 'null' not found.
+2024-01-11 21:22:44.049 - Charset 'null' not found.
+2024-01-11 21:22:44.049 - Charset 'null' not found.
+2024-01-11 21:22:44.049 - Charset 'null' not found.
+2024-01-11 21:22:44.049 - Charset 'null' not found.
+2024-01-11 21:22:44.050 - Charset 'null' not found.
+2024-01-11 21:22:44.050 - Charset 'null' not found.
+2024-01-11 21:22:44.050 - Charset 'null' not found.
+2024-01-11 21:22:44.051 - Charset 'null' not found.
+2024-01-11 21:22:44.051 - Charset 'null' not found.
+2024-01-11 21:22:44.051 - Charset 'null' not found.
+2024-01-11 21:22:44.052 - Charset 'null' not found.
+2024-01-11 21:22:44.052 - Charset 'null' not found.
+2024-01-11 21:22:44.052 - Charset 'null' not found.
+2024-01-11 21:22:44.052 - Charset 'null' not found.
+2024-01-11 21:22:44.053 - Charset 'null' not found.
+2024-01-11 21:22:44.053 - Charset 'null' not found.
+2024-01-11 21:22:44.053 - Charset 'null' not found.
+2024-01-11 21:22:44.053 - Charset 'null' not found.
+2024-01-11 21:22:44.053 - Charset 'null' not found.
+2024-01-11 21:22:44.053 - Charset 'null' not found.
+2024-01-11 21:22:44.054 - Charset 'null' not found.
+2024-01-11 21:22:44.054 - Charset 'null' not found.
+2024-01-11 21:22:44.054 - Charset 'null' not found.
+2024-01-11 21:22:44.055 - Charset 'null' not found.
+2024-01-11 21:22:44.055 - Charset 'null' not found.
+2024-01-11 21:22:44.055 - Charset 'null' not found.
+2024-01-11 21:22:44.055 - Charset 'null' not found.
+2024-01-11 21:22:44.055 - Charset 'null' not found.
+2024-01-11 21:22:44.056 - Charset 'null' not found.
+2024-01-11 21:22:44.056 - Charset 'null' not found.
+2024-01-11 21:22:44.056 - Charset 'null' not found.
+2024-01-11 21:22:44.056 - Charset 'null' not found.
+2024-01-11 21:22:44.056 - Charset 'null' not found.
+2024-01-11 21:22:44.057 - Charset 'null' not found.
+2024-01-11 21:22:44.057 - Charset 'null' not found.
+2024-01-11 21:22:44.057 - Charset 'null' not found.
+2024-01-11 21:22:44.057 - Charset 'null' not found.
+2024-01-11 21:22:44.058 - Charset 'null' not found.
+2024-01-11 21:22:44.058 - Charset 'null' not found.
+2024-01-11 21:22:44.058 - Charset 'null' not found.
+2024-01-11 21:22:44.058 - Charset 'null' not found.
+2024-01-11 21:22:44.059 - Charset 'null' not found.
+2024-01-11 21:22:44.059 - Charset 'null' not found.
+2024-01-11 21:22:44.059 - Charset 'null' not found.
+2024-01-11 21:22:44.059 - Charset 'null' not found.
+2024-01-11 21:22:44.060 - Charset 'null' not found.
+2024-01-11 21:22:44.060 - Charset 'null' not found.
+2024-01-11 21:22:44.061 - Charset 'null' not found.
+2024-01-11 21:22:44.061 - Charset 'null' not found.
+2024-01-11 21:22:44.061 - Charset 'null' not found.
+2024-01-11 21:22:44.062 - Charset 'null' not found.
+2024-01-11 21:22:44.063 - Charset 'null' not found.
+2024-01-11 21:22:44.063 - Charset 'null' not found.
+2024-01-11 21:22:44.063 - Charset 'null' not found.
+2024-01-11 21:22:44.064 - Charset 'null' not found.
+2024-01-11 21:22:44.064 - Charset 'null' not found.
+2024-01-11 21:22:44.064 - Charset 'null' not found.
+2024-01-11 21:22:44.064 - Charset 'null' not found.
+2024-01-11 21:22:44.065 - Charset 'null' not found.
+2024-01-11 21:22:44.065 - Charset 'null' not found.
+2024-01-11 21:22:44.065 - Charset 'null' not found.
+2024-01-11 21:22:44.066 - Charset 'null' not found.
+2024-01-11 21:22:44.066 - Charset 'null' not found.
+2024-01-11 21:22:44.066 - Charset 'null' not found.
+2024-01-11 21:22:44.067 - Charset 'null' not found.
+2024-01-11 21:22:44.068 - Charset 'null' not found.
+2024-01-11 21:22:44.069 - Charset 'null' not found.
+2024-01-11 21:22:44.070 - Charset 'null' not found.
+2024-01-11 21:22:44.070 - Charset 'null' not found.
+2024-01-11 21:22:44.071 - Charset 'null' not found.
+2024-01-11 21:22:44.071 - Charset 'null' not found.
+2024-01-11 21:22:44.072 - Charset 'null' not found.
+2024-01-11 21:22:44.072 - Charset 'null' not found.
+2024-01-11 21:22:44.073 - Charset 'null' not found.
+2024-01-11 21:22:44.082 - Connected (mysql8-18cefa82dc6-5576f0bc76113aaf, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+[00007fb8b0627d20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
+[00007fb8b0456ce0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0456ce0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0456ce0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.112.202312261939]
+[00007fb8b027b600] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2024-01-11 21:24:43.916 - DBeaver is stopping
+2024-01-11 21:24:43.917 - Stop instance server
+2024-01-11 21:24:44.918 - Instance server has been stopped
+2024-01-11 21:24:44.919 - DBeaver shutdown completed
+2024-01-11 21:24:45.248 - Shutdown desktop platform...
+2024-01-11 21:24:45.365 - Execution context closed (Mysql, 2)
+2024-01-11 21:24:45.376 - Execution context closed (Mysql, 3)
+2024-01-11 21:24:45.376 - Disconnected (mysql8-18cefa82dc6-5576f0bc76113aaf)
+2024-01-11 21:24:45.387 - Execution context closed (flask, 0)
+2024-01-11 21:24:45.397 - Execution context closed (flask, 1)
+2024-01-11 21:24:45.397 - Disconnected (mysql8-18cf1bc87ee-433b470a18ffe815)
+2024-01-11 21:24:45.713 - Platform shutdown completed (466ms)
+WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+> Start Eclipse Jobs Mechanism [org.eclipse.core.jobs 3.15.100.v20230930-1207]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.100.v20231012-1825]
+> Start DBeaver Application Standalone [org.jkiss.dbeaver.ui.app.standalone 23.3.1.202312261939]
+> Start Eclipse IDE UI Application [org.eclipse.ui.ide.application 1.5.200.v20231030-2045]
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.0.v20231102-1012]
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.121.202312261939]
+> Start Expression Language [org.eclipse.core.expressions 3.9.200.v20230921-0857]
+> Start DBeaver Usage Statistics [org.jkiss.dbeaver.ui.statistics 1.0.17.202312261939]
+> Start DBeaver Desktop Application Core [org.jkiss.dbeaver.core 23.3.1.202312261939]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.136.202312261939]
+2024-01-11 21:24:58.017 - DBeaver 23.3.1.202312261939 is starting
+2024-01-11 21:24:58.019 - OS: Linux 6.6.10-arch1-1 (amd64)
+2024-01-11 21:24:58.019 - Java version: 17.0.9 by N/A (64bit)
+2024-01-11 21:24:58.020 - Install path: '/usr/lib/dbeaver'
+2024-01-11 21:24:58.020 - Instance path: 'file:/home/boywithuke/.local/share/DBeaverData/workspace6/'
+2024-01-11 21:24:58.021 - Memory available 64Mb/1024Mb
+2024-01-11 21:24:58.133 - Create display
+2024-01-11 21:24:58.768 - Initialize desktop platform...
+2024-01-11 21:24:59.564 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.200.v20231102-0934]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.0.v20231102-0934]
+> Start Team Support Core [org.eclipse.team.core 3.10.200.v20231106-1240]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.121.202312261939]
+2024-01-11 21:25:00.853 - Initialize base platform...
+2024-01-11 21:25:00.933 - Platform initialized (2165ms)
+2024-01-11 21:25:01.238 - Starting instance server at http://localhost:44355
+2024-01-11 21:25:01.293 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.200.v20231030-2045]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.200.v20231103-2012]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.200.v20231030-2045]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.200.v20231030-2045]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.200.v20231030-2045]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.200.v20231108-1058]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.36.0.v20231002-1156]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.200.v20230913-1724]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.200.v20231106-1600]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.200.v20231030-2045]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.100.v20231103-2012]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.200.v20231025-0632]
+[00007fb8b03217d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b03217d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b03217d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2024-01-11 21:25:11.272 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.111.202312261939]
+2024-01-11 21:25:12.525 - Total database drivers: 106 (106)
+> Start Help System Core [org.eclipse.help 3.10.200.v20231106-1240]
+2024-01-11 21:25:13.097 - Create actions
+2024-01-11 21:25:13.120 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-01-11 21:25:13.121 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-01-11 21:25:13.121 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+Warning: NLS unused message: actions_ContentAssistProposal_description in: org.jkiss.dbeaver.core.CoreResources
+2024-01-11 21:25:14.230 - Initialize workbench window
+2024-01-11 21:25:14.242 - Finish initialization
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.200.v20231106-1600]
+> Start Default Text Editor [org.eclipse.ui.editors 3.17.100.v20231106-1600]
+
+(DBeaver:14093): Gtk-WARNING **: 21:25:15.269: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+> Start Internet Connection Management [org.eclipse.core.net 1.5.200.v20231106-1240]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.121.202312261939]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.121.202312261939]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.158.202312261939]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.127.202312261939]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.100.202311222042]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.16.0.202311222042]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.81.202312261939]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.81.202312261939]
+2024-01-11 21:25:17.318 - Connect with 'Mysql' (mysql8-18cefa82dc6-5576f0bc76113aaf)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.14.202312261939]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.206.202312261939]
+2024-01-11 21:25:17.444 - Execution context opened (Mysql; Main; 0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.145.202312261939]
+2024-01-11 21:25:18.671 - Execution context opened (Mysql; Metadata; 1)
+2024-01-11 21:25:18.725 - Error reading SQL keywords: Unknown column 'RESERVED' in 'where clause'
+2024-01-11 21:25:18.840 - Charset 'null' not found.
+2024-01-11 21:25:18.841 - Charset 'null' not found.
+2024-01-11 21:25:18.842 - Charset 'null' not found.
+2024-01-11 21:25:18.842 - Charset 'null' not found.
+2024-01-11 21:25:18.843 - Charset 'null' not found.
+2024-01-11 21:25:18.844 - Charset 'null' not found.
+2024-01-11 21:25:18.845 - Charset 'null' not found.
+2024-01-11 21:25:18.846 - Charset 'null' not found.
+2024-01-11 21:25:18.847 - Charset 'null' not found.
+2024-01-11 21:25:18.849 - Charset 'null' not found.
+2024-01-11 21:25:18.850 - Charset 'null' not found.
+2024-01-11 21:25:18.851 - Charset 'null' not found.
+2024-01-11 21:25:18.853 - Charset 'null' not found.
+2024-01-11 21:25:18.854 - Charset 'null' not found.
+2024-01-11 21:25:18.855 - Charset 'null' not found.
+2024-01-11 21:25:18.856 - Charset 'null' not found.
+2024-01-11 21:25:18.857 - Charset 'null' not found.
+2024-01-11 21:25:18.858 - Charset 'null' not found.
+2024-01-11 21:25:18.858 - Charset 'null' not found.
+2024-01-11 21:25:18.859 - Charset 'null' not found.
+2024-01-11 21:25:18.859 - Charset 'null' not found.
+2024-01-11 21:25:18.860 - Charset 'null' not found.
+2024-01-11 21:25:18.860 - Charset 'null' not found.
+2024-01-11 21:25:18.860 - Charset 'null' not found.
+2024-01-11 21:25:18.860 - Charset 'null' not found.
+2024-01-11 21:25:18.861 - Charset 'null' not found.
+2024-01-11 21:25:18.861 - Charset 'null' not found.
+2024-01-11 21:25:18.861 - Charset 'null' not found.
+2024-01-11 21:25:18.862 - Charset 'null' not found.
+2024-01-11 21:25:18.862 - Charset 'null' not found.
+2024-01-11 21:25:18.862 - Charset 'null' not found.
+2024-01-11 21:25:18.863 - Charset 'null' not found.
+2024-01-11 21:25:18.863 - Charset 'null' not found.
+2024-01-11 21:25:18.863 - Charset 'null' not found.
+2024-01-11 21:25:18.864 - Charset 'null' not found.
+2024-01-11 21:25:18.864 - Charset 'null' not found.
+2024-01-11 21:25:18.865 - Charset 'null' not found.
+2024-01-11 21:25:18.865 - Charset 'null' not found.
+2024-01-11 21:25:18.865 - Charset 'null' not found.
+2024-01-11 21:25:18.866 - Charset 'null' not found.
+2024-01-11 21:25:18.867 - Charset 'null' not found.
+2024-01-11 21:25:18.867 - Charset 'null' not found.
+2024-01-11 21:25:18.868 - Charset 'null' not found.
+2024-01-11 21:25:18.868 - Charset 'null' not found.
+2024-01-11 21:25:18.869 - Charset 'null' not found.
+2024-01-11 21:25:18.869 - Charset 'null' not found.
+2024-01-11 21:25:18.870 - Charset 'null' not found.
+2024-01-11 21:25:18.871 - Charset 'null' not found.
+2024-01-11 21:25:18.876 - Charset 'null' not found.
+2024-01-11 21:25:18.876 - Charset 'null' not found.
+2024-01-11 21:25:18.876 - Charset 'null' not found.
+2024-01-11 21:25:18.877 - Charset 'null' not found.
+2024-01-11 21:25:18.877 - Charset 'null' not found.
+2024-01-11 21:25:18.878 - Charset 'null' not found.
+2024-01-11 21:25:18.878 - Charset 'null' not found.
+2024-01-11 21:25:18.878 - Charset 'null' not found.
+2024-01-11 21:25:18.879 - Charset 'null' not found.
+2024-01-11 21:25:18.879 - Charset 'null' not found.
+2024-01-11 21:25:18.880 - Charset 'null' not found.
+2024-01-11 21:25:18.880 - Charset 'null' not found.
+2024-01-11 21:25:18.880 - Charset 'null' not found.
+2024-01-11 21:25:18.881 - Charset 'null' not found.
+2024-01-11 21:25:18.881 - Charset 'null' not found.
+2024-01-11 21:25:18.882 - Charset 'null' not found.
+2024-01-11 21:25:18.882 - Charset 'null' not found.
+2024-01-11 21:25:18.882 - Charset 'null' not found.
+2024-01-11 21:25:18.883 - Charset 'null' not found.
+2024-01-11 21:25:18.884 - Charset 'null' not found.
+2024-01-11 21:25:18.885 - Charset 'null' not found.
+2024-01-11 21:25:18.886 - Charset 'null' not found.
+2024-01-11 21:25:18.886 - Charset 'null' not found.
+2024-01-11 21:25:18.887 - Charset 'null' not found.
+2024-01-11 21:25:18.887 - Charset 'null' not found.
+2024-01-11 21:25:18.887 - Charset 'null' not found.
+2024-01-11 21:25:18.888 - Charset 'null' not found.
+2024-01-11 21:25:18.888 - Charset 'null' not found.
+2024-01-11 21:25:18.888 - Charset 'null' not found.
+2024-01-11 21:25:18.889 - Charset 'null' not found.
+2024-01-11 21:25:18.889 - Charset 'null' not found.
+2024-01-11 21:25:18.889 - Charset 'null' not found.
+2024-01-11 21:25:18.890 - Charset 'null' not found.
+2024-01-11 21:25:18.890 - Charset 'null' not found.
+2024-01-11 21:25:18.896 - Charset 'null' not found.
+2024-01-11 21:25:18.896 - Charset 'null' not found.
+2024-01-11 21:25:18.897 - Charset 'null' not found.
+2024-01-11 21:25:18.897 - Charset 'null' not found.
+2024-01-11 21:25:18.897 - Charset 'null' not found.
+2024-01-11 21:25:18.898 - Charset 'null' not found.
+2024-01-11 21:25:18.898 - Charset 'null' not found.
+2024-01-11 21:25:18.898 - Charset 'null' not found.
+2024-01-11 21:25:18.899 - Charset 'null' not found.
+2024-01-11 21:25:18.899 - Charset 'null' not found.
+2024-01-11 21:25:18.899 - Charset 'null' not found.
+2024-01-11 21:25:18.900 - Charset 'null' not found.
+2024-01-11 21:25:18.900 - Charset 'null' not found.
+2024-01-11 21:25:18.900 - Charset 'null' not found.
+2024-01-11 21:25:18.901 - Charset 'null' not found.
+2024-01-11 21:25:18.901 - Charset 'null' not found.
+2024-01-11 21:25:18.901 - Charset 'null' not found.
+2024-01-11 21:25:18.902 - Charset 'null' not found.
+2024-01-11 21:25:18.902 - Charset 'null' not found.
+2024-01-11 21:25:18.902 - Charset 'null' not found.
+2024-01-11 21:25:18.903 - Charset 'null' not found.
+2024-01-11 21:25:18.903 - Charset 'null' not found.
+2024-01-11 21:25:18.903 - Charset 'null' not found.
+2024-01-11 21:25:18.904 - Charset 'null' not found.
+2024-01-11 21:25:18.904 - Charset 'null' not found.
+2024-01-11 21:25:18.904 - Charset 'null' not found.
+2024-01-11 21:25:18.904 - Charset 'null' not found.
+2024-01-11 21:25:18.905 - Charset 'null' not found.
+2024-01-11 21:25:18.905 - Charset 'null' not found.
+2024-01-11 21:25:18.905 - Charset 'null' not found.
+2024-01-11 21:25:18.905 - Charset 'null' not found.
+2024-01-11 21:25:18.905 - Charset 'null' not found.
+2024-01-11 21:25:18.906 - Charset 'null' not found.
+2024-01-11 21:25:18.906 - Charset 'null' not found.
+2024-01-11 21:25:18.906 - Charset 'null' not found.
+2024-01-11 21:25:18.906 - Charset 'null' not found.
+2024-01-11 21:25:18.907 - Charset 'null' not found.
+2024-01-11 21:25:18.907 - Charset 'null' not found.
+2024-01-11 21:25:18.907 - Charset 'null' not found.
+2024-01-11 21:25:18.908 - Charset 'null' not found.
+2024-01-11 21:25:18.908 - Charset 'null' not found.
+2024-01-11 21:25:18.908 - Charset 'null' not found.
+2024-01-11 21:25:18.909 - Charset 'null' not found.
+2024-01-11 21:25:18.909 - Charset 'null' not found.
+2024-01-11 21:25:18.910 - Charset 'null' not found.
+2024-01-11 21:25:18.910 - Charset 'null' not found.
+2024-01-11 21:25:18.911 - Charset 'null' not found.
+2024-01-11 21:25:18.911 - Charset 'null' not found.
+2024-01-11 21:25:18.912 - Charset 'null' not found.
+2024-01-11 21:25:18.912 - Charset 'null' not found.
+2024-01-11 21:25:18.913 - Charset 'null' not found.
+2024-01-11 21:25:18.913 - Charset 'null' not found.
+2024-01-11 21:25:18.913 - Charset 'null' not found.
+2024-01-11 21:25:18.914 - Charset 'null' not found.
+2024-01-11 21:25:18.914 - Charset 'null' not found.
+2024-01-11 21:25:18.915 - Charset 'null' not found.
+2024-01-11 21:25:18.915 - Charset 'null' not found.
+2024-01-11 21:25:18.915 - Charset 'null' not found.
+2024-01-11 21:25:18.916 - Charset 'null' not found.
+2024-01-11 21:25:18.916 - Charset 'null' not found.
+2024-01-11 21:25:18.917 - Charset 'null' not found.
+2024-01-11 21:25:18.918 - Charset 'null' not found.
+2024-01-11 21:25:18.918 - Charset 'null' not found.
+2024-01-11 21:25:18.919 - Charset 'null' not found.
+2024-01-11 21:25:18.919 - Charset 'null' not found.
+2024-01-11 21:25:18.919 - Charset 'null' not found.
+2024-01-11 21:25:18.919 - Charset 'null' not found.
+2024-01-11 21:25:18.920 - Charset 'null' not found.
+2024-01-11 21:25:18.920 - Charset 'null' not found.
+2024-01-11 21:25:18.920 - Charset 'null' not found.
+2024-01-11 21:25:18.920 - Charset 'null' not found.
+2024-01-11 21:25:18.920 - Charset 'null' not found.
+2024-01-11 21:25:18.920 - Charset 'null' not found.
+2024-01-11 21:25:18.921 - Charset 'null' not found.
+2024-01-11 21:25:18.921 - Charset 'null' not found.
+2024-01-11 21:25:18.921 - Charset 'null' not found.
+2024-01-11 21:25:18.921 - Charset 'null' not found.
+2024-01-11 21:25:18.921 - Charset 'null' not found.
+2024-01-11 21:25:18.922 - Charset 'null' not found.
+2024-01-11 21:25:18.922 - Charset 'null' not found.
+2024-01-11 21:25:18.922 - Charset 'null' not found.
+2024-01-11 21:25:18.922 - Charset 'null' not found.
+2024-01-11 21:25:18.922 - Charset 'null' not found.
+2024-01-11 21:25:18.923 - Charset 'null' not found.
+2024-01-11 21:25:18.923 - Charset 'null' not found.
+2024-01-11 21:25:18.923 - Charset 'null' not found.
+2024-01-11 21:25:18.923 - Charset 'null' not found.
+2024-01-11 21:25:18.923 - Charset 'null' not found.
+2024-01-11 21:25:18.923 - Charset 'null' not found.
+2024-01-11 21:25:18.924 - Charset 'null' not found.
+2024-01-11 21:25:18.924 - Charset 'null' not found.
+2024-01-11 21:25:18.924 - Charset 'null' not found.
+2024-01-11 21:25:18.924 - Charset 'null' not found.
+2024-01-11 21:25:18.924 - Charset 'null' not found.
+2024-01-11 21:25:18.925 - Charset 'null' not found.
+2024-01-11 21:25:18.925 - Charset 'null' not found.
+2024-01-11 21:25:18.925 - Charset 'null' not found.
+2024-01-11 21:25:18.925 - Charset 'null' not found.
+2024-01-11 21:25:18.925 - Charset 'null' not found.
+2024-01-11 21:25:18.926 - Charset 'null' not found.
+2024-01-11 21:25:18.926 - Charset 'null' not found.
+2024-01-11 21:25:18.926 - Charset 'null' not found.
+2024-01-11 21:25:18.954 - Connected (mysql8-18cefa82dc6-5576f0bc76113aaf, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+[00007fb8b041a1f0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b041a1f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b041a1f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0658dc0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0658dc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0658dc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b046b7c0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b046b7c0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b046b7c0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0627ed0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627ed0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627ed0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b049d9e0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0056b90] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0056b90] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0056b90] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
