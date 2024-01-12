@@ -999,3 +999,183 @@ Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'obje
 [00007fb8b0056b90] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
 [00007fb8b0056b90] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
 Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b001d5b0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b001d5b0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b001d5b0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b05e8770] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b05e8770] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b05e8770] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b06e5390] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b06e5390] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b06e5390] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0422360] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0422360] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0422360] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0524650] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0524650] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0524650] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b049d9e0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0012440] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0012440] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0012440] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0627ed0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627ed0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627ed0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b021b8b0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b021b8b0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b021b8b0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+
+(xfce4-settings-manager:15735): Gtk-WARNING **: 21:35:55.826: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+[00007fb8b0056b90] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0056b90] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0056b90] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b068ca10] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b068ca10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b068ca10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b03217d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b03217d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b03217d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2024-01-11 21:38:24.152 - DBeaver is stopping
+2024-01-11 21:38:24.181 - Stop instance server
+2024-01-11 21:38:25.186 - Instance server has been stopped
+2024-01-11 21:38:25.187 - DBeaver shutdown completed
+2024-01-11 21:38:25.840 - Shutdown desktop platform...
+2024-01-11 21:38:26.058 - Execution context closed (Mysql, 0)
+2024-01-11 21:38:26.069 - Execution context closed (Mysql, 1)
+2024-01-11 21:38:26.069 - Disconnected (mysql8-18cefa82dc6-5576f0bc76113aaf)
+2024-01-11 21:38:26.623 - Platform shutdown completed (783ms)
+[00007fb8b0b4fab0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0b4fab0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0b4fab0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0104b30] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0104b30] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0104b30] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0627d20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b036b320] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b036b320] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b036b320] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b09a6090] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b09a6090] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b09a6090] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0869500] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0869500] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0869500] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0b45f00] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0b45f00] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0b45f00] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b064cf20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b064cf20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b064cf20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b040fec0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b040fec0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b040fec0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0931fa0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0931fa0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0931fa0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[1;33mtint2: remove_icon: 56623154 ()[0m
+[1;33mtint2: remove_icon: 14680226 ()[0m
+[1;33mtint2: remove_icon: 25165834 ()[0m
+[1;33mtint2: remove_icon: 58720259 (blueman)[0m
+[00007fb8b0625690] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0625690] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0625690] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b034b2d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b034b2d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0085660] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0085660] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0085660] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0627d20] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627d20] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b05344f0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b05344f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b05344f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b027b600] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b027b600] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b06e5390] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b06e5390] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b06e5390] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0625690] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0625690] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0625690] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b05344f0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b05344f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b05344f0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b034b2d0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b034b2d0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0ad6e10] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0ad6e10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0ad6e10] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b09b3e00] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b09b3e00] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b09b3e00] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0627ed0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0627ed0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0627ed0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0418ef0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0418ef0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0418ef0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0738590] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0738590] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0738590] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b049d9e0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b049d9e0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b04b9a00] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b04b9a00] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b04b9a00] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+[00007fb8b0658dc0] glconv_vaapi_x11 gl error: vaInitialize: unknown libva error
+[00007fb8b0658dc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+[00007fb8b0658dc0] glconv_vaapi_drm gl error: vaInitialize: unknown libva error
+Failed to open VDPAU backend libvdpau_va_gl.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type

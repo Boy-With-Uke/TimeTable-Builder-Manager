@@ -260,6 +260,7 @@ public class WindowSubject_UpdateDel extends javax.swing.JFrame {
                 // Vérifiez si la classe existe
                 if (MatiereExists(connection, nomMatiere)) {
                     // Si la classe existe, supprimez-la de la base de données
+                    deleteTeacher(connection, nomMatiere);
                     deleteMatiere(connection, nomMatiere);
 
                     // Affichez une boîte de dialogue de succès
@@ -449,7 +450,14 @@ public class WindowSubject_UpdateDel extends javax.swing.JFrame {
         }
         return matieres;
     }
-
+private void deleteTeacher(Connection connection, String matiere) throws SQLException {
+        // Utilisez une requête SQL pour supprimer le prof
+        String query = "DELETE FROM prof WHERE matiere_prof = ?";
+        try (PreparedStatement statement = connection.prepareStatement(query)) {
+            statement.setString(1, matiere);
+            statement.executeUpdate();
+        }
+    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton Back;
